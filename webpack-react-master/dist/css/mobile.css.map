@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/page/mobile/style/index.css","webpack:///./src/page/mobile/style/leS.less"],"names":[],"mappings":"AAAA;AACA;AACA,C;ACFA;AACA;AACA;AACA","file":"css/mobile.css","sourcesContent":["#root{\r\n    background-color: red;\r\n}","#root {\n  background-color: aqua;\n  font-size: 3.733vw;\n}\n"],"sourceRoot":""}

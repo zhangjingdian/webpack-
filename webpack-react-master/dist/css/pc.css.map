@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/page/pc/style/index.css","webpack:///./src/page/pc/style/leS.less"],"names":[],"mappings":"AAAA;AACA;AACA;AACA,C;ACHA;AACA;AACA","file":"css/pc.css","sourcesContent":["#root{\r\n    background-color: red;\r\n    background-image: url(../images/16c27669e13df9a7.1863c00.jpg);\r\n}","#root {\n  font-size: 28Px;\n}\n"],"sourceRoot":""}
